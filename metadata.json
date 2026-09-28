@@ -1,0 +1,6 @@
+{
+  "name": "NodeFlow",
+  "description": "Visual AI orchestration and workflow automation engine inspired by n8n. Build, connect, and run multi-agent DAG workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
